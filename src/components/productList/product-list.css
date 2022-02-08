@@ -1,0 +1,30 @@
+.pl {
+  padding: 5em 10rem;
+
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
+.pl-texts {
+  width: 65%;
+}
+
+.pl-title {
+  font-size: 5rem;
+  font-weight: 600;
+}
+
+.pl-desc {
+  margin: 20px 0;
+}
+
+.pl-list {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  gap: 1rem;
+}
